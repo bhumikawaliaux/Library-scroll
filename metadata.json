@@ -1,0 +1,6 @@
+{
+  "name": "Bhumz's Library — 3D Bookshelf & Bookclub Reviews",
+  "description": "An interactive, physically-turned 3D bookshelf to share curated book club reads, ratings, and personal reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
